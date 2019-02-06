@@ -4,3 +4,5 @@ if(character=='A' or character=='a' or character=='E' or character =='e' or char
     print(character, "is a Vowel")
 else:
     print(character, "is a Consonant")
+  elif:
+   print(character,"invalid")
